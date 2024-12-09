@@ -28,5 +28,5 @@ git clone https://github.com/DFKI-ChargePal/chargepal_configuration.git config
 You can then select the desired branch
 ```shell
 cd config
-git switch -b <pkg_name>/<robot_name>/<tag_name>
+git switch <pkg_name>/<robot_name>/<tag_name>
 ```
