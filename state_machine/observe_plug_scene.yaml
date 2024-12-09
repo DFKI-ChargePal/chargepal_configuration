@@ -1,0 +1,29 @@
+# Configuration file for state >>ObservePlugScene<<
+
+detector_time_out: 5.0
+
+
+plug_in_ads_ac:
+  scene_detector: aruco_pattern_bc
+
+plug_in_ads_dc:
+  scene_detector: aruco_pattern_bc
+
+plug_in_bcs_ac:
+  scene_detector: aruco_pattern_bc
+
+plug_in_dsk_dm:
+  scene_detector: aruco_pattern_bc_adj
+
+
+plug_out_ads_ac:
+  scene_detector: aruco_marker_ads
+
+plug_out_ads_dc:
+  scene_detector: aruco_marker_ads
+
+plug_out_bcs_ac:
+  scene_detector: aruco_marker_bcs
+
+plug_out_dsk_dm:
+  scene_detector: aruco_marker_dsk_adj

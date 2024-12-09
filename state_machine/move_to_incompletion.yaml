@@ -1,0 +1,116 @@
+# Configuration file for state >>MoveToIncompletion<<
+
+acc: 0.1
+
+vel: 0.1
+
+
+observe_plug_scene:
+  home_position_workspace_left:
+    - [3.1452, -2.0652, 2.4016, -0.3361, 1.5773, -1.5685]
+
+  home_position_workspace_right:
+    - [3.1452, -2.0652, 2.4016, -0.3361, 1.5773, -1.5685]
+
+  joint_waypoints_bcs2home:
+    - [0.0, ]
+    - [0.0, ]
+    - [0.0, ]
+
+  joint_waypoints_ads2home_ls:
+    - [3.5873, -2.1633, 2.0268, 0.3592, 1.9723, -1.5022]
+    - [3.9179, -1.5501, 2.2809, -0.7119, 2.2854, -1.5683]
+    - [3.1452, -2.0652, 2.4016, -0.3361, 1.5773, -1.5685]
+
+  joint_waypoints_ads2home_rs:
+    - [0.0, ]
+    - [0.0, ]
+    - [0.0, ]
+
+
+observe_plug:
+  home_position_workspace_left:
+    - [3.1452, -2.0652, 2.4016, -0.3361, 1.5773, -1.5685]
+
+  home_position_workspace_right:
+    - [3.1452, -2.0652, 2.4016, -0.3361, 1.5773, -1.5685]
+
+  joint_waypoints_bcs2home:
+    - [0.0, ]
+    - [0.0, ]
+    - [0.0, ]
+
+  joint_waypoints_ads2home_ls:
+    - [3.9179, -1.5501, 2.2809, -0.7119, 2.2854, -1.5683]
+    - [3.1452, -2.0652, 2.4016, -0.3361, 1.5773, -1.5685]
+
+  joint_waypoints_ads2home_rs:
+    - [0.0, ]
+    - [0.0, ]
+    - [0.0, ]
+
+
+observe_plug_id:
+  home_position_workspace_left:
+    - [3.1452, -2.0652, 2.4016, -0.3361, 1.5773, -1.5685]
+
+  home_position_workspace_right:
+    - [3.1452, -2.0652, 2.4016, -0.3361, 1.5773, -1.5685]
+
+  joint_waypoints_bcs2home:
+    - [0.0, ]
+    - [0.0, ]
+    - [0.0, ]
+
+  joint_waypoints_ads2home_ls:
+    - [3.9179, -1.5501, 2.2809, -0.7119, 2.2854, -1.5683]
+    - [3.1452, -2.0652, 2.4016, -0.3361, 1.5773, -1.5685]
+
+  joint_waypoints_ads2home_rs:
+    - [0.0, ]
+    - [0.0, ]
+    - [0.0, ]
+
+
+attach_plug:
+  home_position_workspace_left:
+    - [3.1452, -2.0652, 2.4016, -0.3361, 1.5773, -1.5685]
+
+  home_position_workspace_right:
+    - [3.1452, -2.0652, 2.4016, -0.3361, 1.5773, -1.5685]
+
+  joint_waypoints_bcs2home:
+    - [0.0, ]
+    - [0.0, ]
+    - [0.0, ]
+
+  joint_waypoints_ads2home_ls:
+    - [3.9179, -1.5501, 2.2809, -0.7119, 2.2854, -1.5683]
+    - [3.1452, -2.0652, 2.4016, -0.3361, 1.5773, -1.5685]
+
+  joint_waypoints_ads2home_rs:
+    - [0.0, ]
+    - [0.0, ]
+    - [0.0, ]
+
+
+release_plug:
+  home_position_workspace_left:
+    - [3.1452, -2.0652, 2.4016, -0.3361, 1.5773, -1.5685]
+
+  home_position_workspace_right:
+    - [3.1452, -2.0652, 2.4016, -0.3361, 1.5773, -1.5685]
+
+  joint_waypoints_bcs2home:
+    - [0.0, ]
+    - [0.0, ]
+    - [0.0, ]
+
+  joint_waypoints_ads2home_ls:
+    - [3.9179, -1.5501, 2.2809, -0.7119, 2.2854, -1.5683]
+    - [3.1452, -2.0652, 2.4016, -0.3361, 1.5773, -1.5685]
+
+  joint_waypoints_ads2home_rs:
+    - [0.0, ]
+    - [0.0, ]
+    - [0.0, ]

@@ -1,0 +1,68 @@
+# Configuration file for state >>MoveToSocketObsRecover<<
+
+acc: 0.1
+
+vel: 0.1
+
+observe_socket:
+  plug_in_ads_ac:
+    - [0.0, ]
+    - [0.0, ]
+
+  plug_in_ads_dc:
+    - [0.0, ]
+    - [0.0, ]
+
+  plug_in_bcs_ac:
+    - [0.0, ]
+    - [0.0, ]
+
+  plug_in_dsk_dm:
+    - [3.3621, -1.5688, 1.7825, -0.0376, 1.7908, -1.5512]
+
+  plug_out_ads_ac:
+    - [0.0, ]
+    - [0.0, ]
+
+  plug_out_ads_dc:
+    - [0.0, ]
+    - [0.0, ]
+
+  plug_out_bcs_ac:
+    - [0.0, ]
+    - [0.0, ]
+
+  plug_out_dsk_dm:
+    - [3.3621, -1.5688, 1.7825, -0.0376, 1.7908, -1.5512]
+
+
+observe_socket_scene:
+  plug_in_ads_ac:
+    - [0.0, ]
+    - [0.0, ]
+
+  plug_in_ads_dc:
+    - [0.0, ]
+    - [0.0, ]
+
+  plug_in_bcs_ac:
+    - [0.0, ]
+    - [0.0, ]
+
+  plug_in_dsk_dm:
+    - [3.3621, -1.5688, 1.7825, -0.0376, 1.7908, -1.5512]
+
+  plug_out_ads_ac:
+    - [0.0, ]
+    - [0.0, ]
+
+  plug_out_ads_dc:
+    - [0.0, ]
+    - [0.0, ]
+
+  plug_out_bcs_ac:
+    - [0.0, ]
+    - [0.0, ]
+
+  plug_out_dsk_dm:
+    - [3.3621, -1.5688, 1.7825, -0.0376, 1.7908, -1.5512]

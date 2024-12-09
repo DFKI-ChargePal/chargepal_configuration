@@ -1,0 +1,16 @@
+# Configuration file for state >>ObservePlug<<
+
+acc: 0.2
+
+vel: 0.5
+
+detector_time_out: 5.0
+
+type2_male:
+  detector: aruco_pattern_dsk_adj
+
+type2_female:
+  detector: aruco_pattern_dsk_adj
+
+ccs_female:
+  detector: aruco_pattern_dsk_adj

@@ -1,0 +1,48 @@
+# Configuration file for state >>MoveToCompletion<<
+
+acc: 0.2
+
+vel: 0.5
+
+
+plug_in_ads_ac:
+  joint_waypoints:
+  - [0.0, ]
+  - [0.0, ]
+  - [0.0, ]
+
+plug_in_ads_dc:
+  joint_waypoints:
+  - [0.0, ]
+  - [0.0, ]
+  - [0.0, ]
+
+plug_in_bcs_ac:
+  joint_waypoints:
+  - [0.0, ]
+  - [0.0, ]
+  - [0.0, ]
+
+plug_in_dsk_dm:
+  joint_waypoints:
+  - [3.3382, -1.4630, 1.8136, -0.3647, 1.7464, -1.6308]
+  - [3.8374, -1.4541, 1.7972, -0.3239, 2.2330, -1.5129]
+  - [3.1452, -2.0652, 2.4016, -0.3361, 1.5773, -1.5685]
+
+
+plug_out_ads_ac:
+  joint_waypoints:
+  - [0.0, ]
+
+plug_out_ads_dc:
+  joint_waypoints:
+  - [0.0, ]
+
+plug_out_bcs_ac:
+  joint_waypoints:
+  - [0.0, ]
+
+plug_out_dsk_dm:
+  joint_waypoints:
+  - [3.3382, -1.4630, 1.8136, -0.3647, 1.7464, -1.5685]
+  - [3.1452, -2.0652, 2.4016, -0.3361, 1.5773, -1.5685]

@@ -1,0 +1,9 @@
+# Configuration file for state >>FlipArm<<
+
+max_moving_tolerance: 1.6
+
+wps_flip_to_rs:
+  - [3.1452, -2.0652, 2.4016, -0.3361, 1.5773, -1.5685]
+
+wps_flip_to_ls:
+  - [3.1452, -2.0652, 2.4016, -0.3361, 1.5773, -1.5685]

@@ -1,0 +1,42 @@
+# Configuration file for state >>MoveToPlugSceneObs<<
+
+vel: 0.2
+
+acc: 0.1
+
+
+plug_in_ads_ac:
+  joint_position: [0.0, ]
+
+plug_in_ads_dc:
+  joint_position: [0.0, ]
+
+plug_in_bcs_ac:
+  joint_position: [0.0, ]
+
+plug_in_dsk_dm:
+  joint_position: [3.3621, -1.5688, 1.7825, -0.0376, 1.7908, -1.5512]
+
+
+plug_out_ads_ac:
+  joint_waypoints:
+    - [0.0, ]
+    - [0.0, ]
+    - [0.0, ]
+
+plug_out_ads_dc:
+  joint_waypoints:
+    - [0.0, ]
+    - [0.0, ]
+    - [0.0, ]
+
+plug_out_bcs_ac:
+  joint_waypoints:
+    - [0.0, ]
+    - [0.0, ]
+    - [0.0, ]
+
+plug_out_dsk_dm:
+  joint_waypoints:
+    - [3.9179, -1.5501, 2.2809, -0.7119, 2.2854, -1.5683]
+    - [3.5873, -2.1633, 2.0268, 0.3592, 1.9723, -1.5022]

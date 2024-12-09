@@ -1,0 +1,16 @@
+# Configuration file for state >>ObservePlugId<<
+
+acc: 0.1
+
+vel: 0.1
+
+detector_time_out: 5.0
+
+type2_male:
+  detector: aruco_marker_type2_male
+
+type2_female:
+  detector: aruco_marker_type2_female
+
+ccs_female:
+  detector: aruco_marker_ccs_female
