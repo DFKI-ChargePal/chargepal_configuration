@@ -1,0 +1,12 @@
+marker_size: 25
+marker_type: 'DICT_4X4_100'
+invert_img: false
+marker_layout:
+  41: [0, 0]
+  42: [-103,  48]
+  43: [103,   48]
+  44: [-103, -48]
+  45: [103,  -48]
+offset:
+  xyz: [0.0, 0.0, 0.0]
+  xyzw: [0.0, 0.0, 0.0, 1.0]

@@ -1,0 +1,9 @@
+# Configuration file for state >>MoveToStartLS<<
+
+vel: 0.5
+
+acc: 0.2
+
+max_moving_tolerance: 1.6
+
+home_joint_pos: [-3.3688, -2.2431, 2.3152, 0.1217, 1.3721, 3.9305]

@@ -1,0 +1,5 @@
+# Configuration file for state >>MoveToPlugIdObs<<
+
+vel: 0.5
+
+acc: 0.2

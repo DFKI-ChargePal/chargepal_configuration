@@ -1,0 +1,9 @@
+# Configuration file for state >>MoveToBatteryObs<<
+
+vel: 0.5
+
+acc: 0.2
+
+workspace_left: [-3.3976, -1.9874, 2.4732, 0.1313, 1.6495, 3.7947]
+
+workspace_right: [0.2547, -0.9166, -2.5495, -3.3004, -1.5205, 3.9773]

@@ -1,0 +1,26 @@
+# Configuration file for state >>ObserveBattery<<
+
+bat_1:
+  detector_time_out: 5.0
+
+  type2_male:
+    detector: aruco_pattern_bat1_type2_male_adj
+
+  type2_female:
+    detector: aruco_pattern_bat1_type2_female_adj
+
+  ccs_female:
+    detector: aruco_pattern_bat1_ccs_female_adj
+
+
+bat_2:
+  detector_time_out: 5.0
+
+  # type2_male:
+  #   detector: aruco_pattern_bat_type2_male_adj
+
+  # type2_female:
+  #   detector: aruco_pattern_bat_type2_female_adj
+
+  # ccs_female:
+  #   detector: aruco_pattern_bat_ccs_female_adj

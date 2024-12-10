@@ -1,0 +1,7 @@
+marker_id: 31
+marker_type: 'DICT_4X4_100'
+marker_size: 70
+invert_img: false
+offset:
+  xyz: [0.0, 0.0, 0.0]
+  xyzw: [0.0, 0.0, 0.0, 1.0]

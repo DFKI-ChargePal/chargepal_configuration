@@ -1,0 +1,17 @@
+# Configuration file for state >>InsertPlug<<
+
+engage_time_out: 10.0
+engage_max_force: 50.0
+engage_depth: 0.015
+engage_tolerance: 0.005
+
+insert_time_out: 10.0
+insert_start_force: 70.0
+insert_end_force: 100.0
+insert_tolerance: 0.005
+
+remove_time_out: 10.0
+remove_max_force: 125.0
+remove_tolerance: 0.003
+
+number_of_retries: 1

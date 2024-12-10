@@ -1,0 +1,12 @@
+# Configuration file for state >>ObserveSocket<<
+
+detector_time_out: 5.0
+
+type2_male:
+  detector: aruco_pattern_bcs_adj
+
+type2_female:
+  detector: aruco_pattern_ads_adj
+
+ccs_female:
+  detector: aruco_pattern_ads_adj
