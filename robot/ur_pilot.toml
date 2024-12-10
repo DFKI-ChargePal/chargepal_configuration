@@ -1,0 +1,32 @@
+name = "ur_pilot"
+description = "Configuration file for the ur_pilot package."
+author = "Georg John"
+email = "georg.john@dfki.de"
+
+[robot]
+
+[pilot.coupling]
+mass = 0.4
+com = [0.0, 0.0, 0.02]
+link_frame = [0.0, 0.0, 0.052, 0.0, 0.0, 0.0]
+
+[pilot.tm_type2_female]
+mass = 0.3
+com = [0.0, 0.0, 0.110]
+lip_frame = [0.0, 0.0, 0.183, 0.0, 0.0, 0.0]
+tip_frame = [0.0, 0.0, 0.218, 0.0, 0.0, 0.0]
+sense_frame = [0.0, 0.0, 0.21717, 0.0, -0.2618, 0.0]
+
+[pilot.tm_type2_male]
+mass = 0.3
+com = [0.0, 0.0, 0.111]
+lip_frame = [0.0, 0.0, 0.180, 0.0, 0.0, 0.0]
+tip_frame = [0.0, 0.0, 0.224, 0.0, 0.0, 0.0]
+sense_frame = [0.0, 0.0, 0.223, 0.0, 0.0, 0.0]
+
+# [pilot.tm_ccs_female]
+# mass = 0.3
+# com = [0.0, 0.0, 0.123]
+# lip_frame = [0.0, 0.0, 0.1835, 0.0, 0.0, 0.0]
+# tip_frame = [0.0, 0.0, 0.2325, 0.0, 0.0, 0.0]
+# sense_frame = [0.0, 0.0, 0.2325, 0.0, 0.0, 0.0]

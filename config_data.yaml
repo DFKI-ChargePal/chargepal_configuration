@@ -1,0 +1,11 @@
+camera:
+  name: 'realsense_tcp_cam'
+
+detector:
+  two_step_approach: True
+  time_out: 4.0
+  detector_i: 'aruco_marker_71.yaml'
+  detector_ii: 'aruco_pattern_7x_adj.yaml'
+
+robot:
+  plug_type: 'type2_female'
